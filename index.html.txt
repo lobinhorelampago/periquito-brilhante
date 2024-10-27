@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abrir no Navegador</title>
+</head>
+<body style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; margin: 0;">
+    <h2>Abrir no Navegador</h2>
+    <p>Clique no botão abaixo para abrir o link no navegador:</p>
+    <a href="https://linktr.ee/lobomauhaha" target="_blank">
+        <button style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Ir para o Link</button>
+    </a>
+</body>
+</html>
